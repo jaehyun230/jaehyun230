@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jaehyun230)](https://github.com/jaehyun230/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jaehyun230&show_icons=true&theme=dark&theme=tokyonight)](https://github.com/jaehyun230/github-readme-stats)
+
+
 <!--
 **jaehyun230/jaehyun230** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
